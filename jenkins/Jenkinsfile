@@ -3,7 +3,7 @@ pipeline{
     environment{
         registry="Namrata1-99/vote" 
         dockerImage=""  
-        dockertoken=credentials("docker-token")
+        // dockertoken=credentials("docker-token")
     }
     stages{
         stage('Building our image') { 
