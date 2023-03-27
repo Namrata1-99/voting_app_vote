@@ -2,3 +2,7 @@ fileignoreconfig:
 - filename: templates/index.html
   checksum: 02e0b8c8ed223eaafba8d095c339457908cf9dcd5374597157dd01b10fe7ae75
 version: ""
+fileignoreconfig:
+- filename: jenkins/Jenkinsfile
+  checksum: c83da0598194335260013d91ac709d29d312ea37dc11b237280b60f9e6d5ea69
+version: ""
