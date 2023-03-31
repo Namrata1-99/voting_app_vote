@@ -1,5 +1,5 @@
 replicas: 1
-image: "namrata1-99/vote"
+image: "namrata99/vote"
 #specify container name using containerName key
 containerName: vote
 port: 80
